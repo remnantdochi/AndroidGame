@@ -16,10 +16,10 @@ public class Movewithbuffer extends JFrame implements KeyListener, Runnable {
 	private boolean KeyLeft = false;
 	private boolean KeyRight = false;
 	 
-	Thread th; // 스레드 생성
+	Thread th; // 스레드 생성 
 	 
 	Toolkit tk = Toolkit.getDefaultToolkit();
-	Image me_img = tk.getImage("img/bird.jpg");
+	Image me_img = tk.getImage("img/test.png");
 	
 	private Image buffImage; //더블 버퍼링용
 	private Graphics buffg;

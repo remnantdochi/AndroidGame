@@ -1,3 +1,4 @@
+//화면 뜨는 거 확인
 package test02;
 
 import javax.swing.*;
