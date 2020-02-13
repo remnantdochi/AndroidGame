@@ -1,7 +1,8 @@
 # 20200105
 ## 똥 피하기
 https://beautifulkim.tistory.com/283  
-https://wche.tistory.com/3
+https://wche.tistory.com/3  
+https://github.com/gibiee/Dodge/tree/master/app/src/main/java/com/gibisoft/dodge  
 ## Java
 1. super  
 http://tcpschool.com/java/java_inheritance_super
