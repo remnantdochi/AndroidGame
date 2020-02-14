@@ -11,8 +11,12 @@ https://material.io/design/layout/responsive-layout-grid.html#columns-gutters-ma
 신기하다 구글이 권장하는 디자인이래  
 3. 안드로이드 D경로로 바꾸기...  
 https://yollo.tistory.com/35  
-
 ## Java swing 공부  
 swing이란 무엇인가 : https://raccoonjy.tistory.com/17  
 https://betterfly88.github.io/java/toy_rhythmGame_1/  
-https://blog.naver.com/dosem321/40170781167
+https://blog.naver.com/dosem321/40170781167  
+## android  
+Motion Event  
+  - ACTION_DOWN : 화면을 눌렸을 때  
+  - ACTION_MOVE : 화면을 누른 상태에서 움직일 때  
+  - ACTION_UP : 화면에서 손을 뗄 때
