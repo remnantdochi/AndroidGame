@@ -19,6 +19,6 @@ https://blog.naver.com/dosem321/40170781167
 Motion Event  
   - ACTION_DOWN : 화면을 눌렸을 때  
   - ACTION_MOVE : 화면을 누른 상태에서 움직일 때  
-  - ACTION_UP : 화면에서 손을 뗄 때
+  - ACTION_UP : 화면에서 손을 뗄 때  
 프로젝트 복사  
 http://www.wetoz.kr/html/board.php?bo_table=tipntech&wr_id=148&sca=%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C
